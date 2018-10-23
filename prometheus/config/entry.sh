@@ -1,0 +1,3 @@
+set -- /bin/prometheus "$@"
+
+exec "$@"
